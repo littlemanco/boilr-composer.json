@@ -1,7 +1,6 @@
 {
     "name": "{{Vendor}}/{{ Name }}",
     "description": "{{ Description }}",
-    "version": "{{ Version }}",
     "type": "{{ Type }}",
     "homepage": "{{ GithubRepo }}",
     "license": "{{ License }}",
