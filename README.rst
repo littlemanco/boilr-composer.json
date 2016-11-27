@@ -36,7 +36,7 @@ Installation
 
 .. Code:: bash
 
-  $ boilr template download littlemanco/boilr-composer.json boilr-composerjson
+  $ boilr template download littlemanco/boilr-composer.json composerjson
   
 Updates
 -------
@@ -45,7 +45,7 @@ I update these templates regularly. If you need to fetch the newer version, try 
 
 .. Code:: bash
 
-  $ boilr template download littlemanco/boilr-composer.json boilr-composerjson -f 
+  $ boilr template download littlemanco/boilr-composer.json composerjson -f 
 
 Usage
 -----
