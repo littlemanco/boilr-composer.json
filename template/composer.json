@@ -1,5 +1,5 @@
 {
-    "name": "{{ Name }}",
+    "name": "{{Vendor}}/{{ Name }}",
     "description": "{{ Description }}",
     "version": "{{ Version }}",
     "type": "{{ Type }}",
