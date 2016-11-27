@@ -1,0 +1,41 @@
+{
+    "name": "{{ Name }}",
+    "description": "{{ Description }}",
+    "version": "{{ Version }}",
+    "type": "{{ Type }}",
+    "homepage": "{{ Homepage }}",
+    "license": "{{ License }}",
+    "authors": [
+        {
+            "name": "{{ AuthorName }}",
+            "email": "{{ AuthorEmail }}",
+            "homepage": "{{ AuthorHomepage }}",
+            "role": "{{ AuthorRole }}"
+        }
+    ],
+    "support": {
+        "email": "{{ AuthorEmail }}",
+        "issues": "{{ GithubRepo }}/issues",
+        "wiki": "{{ GithubRepo }}/wiki",
+        "source": "{{ GithubRepo }}"
+    }, 
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "{{ Vendor }}\\": "src/"
+        }
+    },
+    "bin": {
+    },
+    "archive": {
+        "exclude": {
+            "test",
+            "hack",
+            "hooks",
+            ".arclint"
+        }
+    }
+}

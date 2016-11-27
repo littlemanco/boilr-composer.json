@@ -1,9 +1,33 @@
 {
-  "TemplateName": "boilr-template",
-  "Authors": "Andrew Howden <hello[at]andrewhowden.com>",
-  "Year": "2016",
-  "GithubReference": "littlemanco/boilr-template",
-  "ProjectGoal": "",
-  "SimilarWork": "",
-  "Justification": ""
+    "Vendor": "[littlemanco]: Who started this project",
+    "Name": "[extension]: Name. Will be rendered in the format Vendor/Name",
+    "Description": "[An example extension]: Short description of the project",
+    "Version": "[1.0.0]: Current stable version. Start at 1.0.0",
+    "Type": [
+        "library",
+        "project",
+        "metapackage",
+        "composer-plugin"
+    ],
+    "Homepage": "[https://www.littleman.co/]: The website of the authors",
+    "License": [
+        "Apache-2.0",
+        "BSD2-Clause",
+        "BSD-3-Clause",
+        "BSD-4-Clause",
+        "GPL-2.0",
+        "GPL-2.0+",
+        "GPL-3.0",
+        "GPL-3.0+",
+        "LGPL-2.1",
+        "LGPL-2.1+",
+        "LGPL-3.0",
+        "LGPL-3.0+",
+        "MIT"
+    ],
+    "AuthorName": "[Andrew Howden]: The authors name",
+    "AuthorEmail": "[hello[at]andrewhowden.com]: Where to contact the author",
+    "AuthorHomepage": "[https://www.andrewhowden.com/]: The authors homepage",
+    "AuthorRole": "[Developer]: The authors job role",
+    "GithubRepo": "https://github.com/littlmanco/foobear"
 }
