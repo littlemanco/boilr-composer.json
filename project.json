@@ -4,6 +4,7 @@
     "Description": "[An example extension]: Short description of the project",
     "Version": "[1.0.0]: Current stable version. Start at 1.0.0",
     "Type": [
+        "magento-module",
         "library",
         "project",
         "metapackage",
