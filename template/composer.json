@@ -3,7 +3,7 @@
     "description": "{{ Description }}",
     "version": "{{ Version }}",
     "type": "{{ Type }}",
-    "homepage": "{{ Homepage }}",
+    "homepage": "{{ GithubRepo }}",
     "license": "{{ License }}",
     "authors": [
         {
@@ -31,11 +31,11 @@
     "bin": {
     },
     "archive": {
-        "exclude": {
+        "exclude": [
             "test",
             "hack",
             "hooks",
             ".arclint"
-        }
+        ]
     }
 }
