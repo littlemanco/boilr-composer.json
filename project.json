@@ -23,7 +23,8 @@
         "LGPL-2.1+",
         "LGPL-3.0",
         "LGPL-3.0+",
-        "MIT"
+        "MIT",
+        "proprietary"
     ],
     "AuthorName": "[Andrew Howden]: The authors name",
     "AuthorEmail": "[hello[at]andrewhowden.com]: Where to contact the author",
