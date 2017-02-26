@@ -27,8 +27,8 @@
             "{{ Vendor }}\\": "src/"
         }
     },
-    "bin": {
-    },
+    "bin": [
+    ],
     "archive": {
         "exclude": [
             "test",
@@ -36,5 +36,6 @@
             "hooks",
             ".arclint"
         ]
-    }
+    },
+    "minimum-stability": "{{ MinimumStability }}"
 }
