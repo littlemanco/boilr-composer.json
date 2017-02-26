@@ -37,5 +37,13 @@
             ".arclint"
         ]
     },
+    "config": {
+        "bin-dir":             "bin",
+        "store-auths":         false,
+        "optimize-autoloader": true,
+        "sort-packages":       true,
+        "apcu-autoloader":     true,
+        "notify-on-install":   false
+    },
     "minimum-stability": "{{ MinimumStability }}"
 }
