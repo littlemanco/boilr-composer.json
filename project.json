@@ -9,6 +9,12 @@
         "metapackage",
         "composer-plugin"
     ],
+    "PHPVersion": [
+        ">=7.1",
+        ">=7.0",
+        ">=5.6",
+        ">=5.5"
+    ],
     "Homepage": "[https://www.littleman.co/]: The website of the authors",
     "License": [
         "Apache-2.0",
