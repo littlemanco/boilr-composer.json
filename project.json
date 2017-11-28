@@ -4,6 +4,11 @@
     "Description": "[An example extension]: Short description of the project",
     "Type": [
         "magento-module",
+        "magento2-module",
+        "magento2-theme",
+        "magento2-language",
+        "magento2-library",
+        "magento2-component",
         "library",
         "project",
         "metapackage",
